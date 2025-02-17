@@ -1,0 +1,100 @@
+Student_ID,Name, Math,Science,English,Total,Grade
+1,Louisette Howden,97,66,4,289,solution
+2,Sayre Harron,69,2,38,46,attitude
+3,Francois Fennell,83,29,65,289,Re-contextualized
+4,Irvin Comazzo,78,57,83,17,ability
+5,Archibaldo Kinahan,99,69,94,62,Face to face
+6,Ulrica Bestwall,90,24,33,55,conglomeration
+7,Halsey Eilhermann,33,93,30,185,systemic
+8,Kaila felip,66,23,43,129,modular
+9,Jeremy Stiller,37,38,63,46,Future-proofed
+10,Charo Ruddom,75,38,86,160,Polarised
+11,Ced Edelston,33,77,99,106,definition
+12,Had Brennon,6,62,69,163,Multi-lateral
+13,Pinchas Bleaden,93,60,63,248,Advanced
+14,Maximilianus Dundredge,42,7,32,165,Object-based
+15,Orella McFeate,14,66,24,92,executive
+16,Hermine Dwelly,23,71,83,41,Graphical User Interface
+17,Parnell McLeoid,3,61,99,90,Secured
+18,Fran Penfold,30,31,84,239,adapter
+19,Levon Forsdike,86,24,60,93,bi-directional
+20,Dolf Boltwood,71,52,67,4,Quality-focused
+21,Merrielle Martensen,73,30,92,82,leading edge
+22,Kele Ellesworthe,1,92,68,3,Open-source
+23,Frederigo Kitchinghan,31,77,44,24,analyzer
+24,Bo Fearon,89,75,67,220,solution
+25,Myles Tinan,100,94,26,194,time-frame
+26,Hewet Kellington,25,100,3,192,productivity
+27,Kelly Thurley,30,7,64,155,composite
+28,Blayne Digance,13,90,76,33,regional
+29,Maggie Ellens,89,7,62,225,middleware
+30,Kenon Lazer,21,12,57,185,contextually-based
+31,Benn Foort,94,52,3,184,flexibility
+32,Claudell Hammerich,87,68,30,191,functionalities
+33,Bald Struis,39,38,39,287,Expanded
+34,Fancie Scobie,4,79,54,299,Polarised
+35,Reamonn Ebben,56,28,77,143,Centralized
+36,Thaxter Eyers,84,52,64,89,website
+37,Kassie Bohler,84,31,47,272,help-desk
+38,Roarke Ferenc,37,36,82,42,Horizontal
+39,Barbaraanne Brickstock,12,86,88,282,zero tolerance
+40,Stanfield Look,68,19,24,188,success
+41,Marcella Bointon,40,64,29,247,Cross-platform
+42,Roderich Rosewarne,29,30,60,31,utilisation
+43,Sunshine Colleymore,10,51,24,168,functionalities
+44,Celesta Itzhayek,31,5,22,65,radical
+45,Clifford Hearne,30,71,85,218,heuristic
+46,Sterling Becerra,26,61,24,57,Switchable
+47,Nissie Easson,62,17,29,226,methodology
+48,Harald Seage,2,10,7,5,application
+49,Winni Rennebeck,8,11,58,288,Open-architected
+50,Wait Fluck,0,76,57,97,even-keeled
+51,Amerigo Castelain,56,98,7,250,task-force
+52,Latrena Gutman,55,6,9,156,standardization
+53,Ardys Conville,8,17,39,207,Pre-emptive
+54,Shay Fletcher,52,51,85,117,Automated
+55,Zachery Boog,86,11,49,188,global
+56,Elyssa Sturney,95,40,65,267,demand-driven
+57,Daniela Smalls,99,56,16,234,middleware
+58,Talbot Renzo,30,44,48,181,function
+59,Rosemarie Bradfield,73,30,100,36,Open-architected
+60,Latisha Bamlett,86,21,16,143,Balanced
+61,Agathe Malloy,20,54,83,2,executive
+62,Rori Simmen,0,40,85,267,Streamlined
+63,Eddie Pedrocco,41,36,78,242,matrix
+64,Florentia Ruggles,5,18,34,299,Enhanced
+65,Rogers Jedrasik,21,70,26,63,asynchronous
+66,Aridatha Teenan,69,96,33,141,Innovative
+67,Amity Jeffcock,92,5,70,25,Implemented
+68,Allegra McQuarter,0,78,28,72,hierarchy
+69,Susanna Fayerbrother,8,66,100,18,maximized
+70,Cybil Frankel,91,10,77,49,zero defect
+71,Marillin MacCaughey,64,49,98,285,hub
+72,Marylee Mussett,98,74,83,198,maximized
+73,Yance Celloni,85,54,59,289,product
+74,Carolyn Tesche,96,0,51,42,hub
+75,Karly Lohrensen,28,80,60,159,Proactive
+76,Kizzee Fairfoull,14,16,62,60,solution
+77,Catlee Puddin,9,40,43,300,concept
+78,Scotti Malcolmson,6,1,67,161,contextually-based
+79,Patrick Renwick,48,15,31,204,asymmetric
+80,Farrell Malkie,82,52,22,246,Progressive
+81,Lodovico Beadnall,27,37,19,-2,Adaptive
+82,Gabrila Hall,49,27,4,106,moratorium
+83,Dode Baumaier,63,82,5,254,zero administration
+84,Nanine Voase,42,47,8,171,tangible
+85,Rozalin Heak,78,87,38,284,zero administration
+86,Kaitlyn Foxcroft,46,47,61,176,Proactive
+87,Fern Vidgen,38,100,3,115,pricing structure
+88,Francene Ashtonhurst,67,20,61,270,optimal
+89,Renae Garoghan,67,77,39,148,capacity
+90,Theodora Rougier,82,45,31,286,success
+91,Deanne Hinnerk,26,63,88,298,system engine
+92,Caresse Sore,27,86,2,139,multimedia
+93,Janessa Ryves,23,64,17,83,knowledge user
+94,Theresita Staries,72,0,61,227,human-resource
+95,Candi Wankel,84,96,87,164,object-oriented
+96,Adah Hurl,95,89,13,65,complexity
+97,Lucio Godthaab,82,9,35,139,cohesive
+98,Kingsley Walworche,88,37,92,244,grid-enabled
+99,Athena Collum,72,12,13,272,3rd generation
