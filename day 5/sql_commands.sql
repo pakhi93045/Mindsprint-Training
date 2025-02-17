@@ -134,3 +134,5 @@ select * from employees where salary IS NULL;
 
 
 
+
+
