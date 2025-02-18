@@ -70,12 +70,26 @@ group by t.title
 order by avg_salary desc;
 
 -- 13 List first 5 employees (id,fname,lname,department name) alog with their department names
-
+select e.emp_no, e.first_name, e.last_name, d.dept_name
+from employees e
+join dept_emp de on e.emp_no = de.emp_no
+join departments d on de.dept_no = d.dept_no
+order by e.emp_no
+limit 5;
 
 -- 14 Display firstname, lastname,salary of the highest payed employee.
-
+select e.first_name, e.last_name, s.salary
+from employees e
+join salaries s on e.emp_no = s.emp_no
+order by s.salary desc
+limit 1;
 
 -- 15 second highest payed employe
+select e.first_name, e.last_name, s.salary
+from employees e
+join salaries s on e.emp_no = s.emp_no
+order by s.salary desc
+limit 1 offset 1;
 
 
 
