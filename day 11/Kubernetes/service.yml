@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service
+
+spec:
+  type: NodePort #service type
+  selector:
+    app: nginx #label of your pod
+
+  ports:
+    - protocol: TCP
+      port: 80 #host port
+      targetPort: 80 #container port
+      nodePort: 30007 #service port
